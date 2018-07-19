@@ -1,0 +1,34 @@
+{
+  "presets": [
+    [
+      "next/babel",
+      {
+        "styled-jsx": {
+          "optimizeForSpeed": false
+        }
+      }
+    ]
+  ],
+  "plugins": [
+    "transform-decorators-legacy",
+    "transform-class-properties",
+    ["import", { "libraryName": "antd-mobile" }],
+    [
+      "module-resolver",
+      {
+        "alias": {
+          "@ds": "./common/ds",
+          "@const": "./common/const",
+          "@utils": "./common/utils",
+          "@": "./common/decorator",
+          "@api": "./common/api",
+          "@styles": "./common/styles",
+          "@stores": "./common/stores",
+          "@components": "./components",
+          "@src": "./src",
+          "@_": "./src/_"
+        }
+      }
+    ]
+  ]
+}

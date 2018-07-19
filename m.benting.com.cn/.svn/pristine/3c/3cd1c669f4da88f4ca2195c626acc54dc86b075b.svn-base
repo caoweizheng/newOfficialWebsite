@@ -1,0 +1,340 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8"/>
+    <title>IconFont</title>
+    <link rel="stylesheet" href="demo.css">
+    <link rel="stylesheet" href="iconfont.css">
+</head>
+<body>
+    <div class="main markdown">
+        <h1>IconFont 图标</h1>
+        <ul class="icon_lists clear">
+            
+                <li>
+                <i class="icon iconfont icon-check-circle-fill"></i>
+                    <div class="name">checked</div>
+                    <div class="fontclass">.icon-check-circle-fill</div>
+                </li>
+            
+                <li>
+                <i class="icon iconfont icon-down"></i>
+                    <div class="name">unfold</div>
+                    <div class="fontclass">.icon-down</div>
+                </li>
+            
+                <li>
+                <i class="icon iconfont icon-share-fill"></i>
+                    <div class="name">分享</div>
+                    <div class="fontclass">.icon-share-fill</div>
+                </li>
+            
+                <li>
+                <i class="icon iconfont icon-like"></i>
+                    <div class="name">点赞-描边</div>
+                    <div class="fontclass">.icon-like</div>
+                </li>
+            
+                <li>
+                <i class="icon iconfont icon-like-fill"></i>
+                    <div class="name">点赞</div>
+                    <div class="fontclass">.icon-like-fill</div>
+                </li>
+            
+                <li>
+                <i class="icon iconfont icon-comment-fill"></i>
+                    <div class="name">回复</div>
+                    <div class="fontclass">.icon-comment-fill</div>
+                </li>
+            
+                <li>
+                <i class="icon iconfont icon-up"></i>
+                    <div class="name">上</div>
+                    <div class="fontclass">.icon-up</div>
+                </li>
+            
+                <li>
+                <i class="icon iconfont icon-plus"></i>
+                    <div class="name">加</div>
+                    <div class="fontclass">.icon-plus</div>
+                </li>
+            
+                <li>
+                <i class="icon iconfont icon-cross"></i>
+                    <div class="name">乘</div>
+                    <div class="fontclass">.icon-cross</div>
+                </li>
+            
+                <li>
+                <i class="icon iconfont icon-down1"></i>
+                    <div class="name">下</div>
+                    <div class="fontclass">.icon-down1</div>
+                </li>
+            
+                <li>
+                <i class="icon iconfont icon-right"></i>
+                    <div class="name">右</div>
+                    <div class="fontclass">.icon-right</div>
+                </li>
+            
+                <li>
+                <i class="icon iconfont icon-left"></i>
+                    <div class="name">左</div>
+                    <div class="fontclass">.icon-left</div>
+                </li>
+            
+                <li>
+                <i class="icon iconfont icon-minus"></i>
+                    <div class="name">减</div>
+                    <div class="fontclass">.icon-minus</div>
+                </li>
+            
+                <li>
+                <i class="icon iconfont icon-search"></i>
+                    <div class="name">搜索</div>
+                    <div class="fontclass">.icon-search</div>
+                </li>
+            
+                <li>
+                <i class="icon iconfont icon-setting"></i>
+                    <div class="name">设置</div>
+                    <div class="fontclass">.icon-setting</div>
+                </li>
+            
+                <li>
+                <i class="icon iconfont icon-message"></i>
+                    <div class="name">消息</div>
+                    <div class="fontclass">.icon-message</div>
+                </li>
+            
+                <li>
+                <i class="icon iconfont icon-emoji"></i>
+                    <div class="name">表情</div>
+                    <div class="fontclass">.icon-emoji</div>
+                </li>
+            
+                <li>
+                <i class="icon iconfont icon-video"></i>
+                    <div class="name">视频</div>
+                    <div class="fontclass">.icon-video</div>
+                </li>
+            
+                <li>
+                <i class="icon iconfont icon-pic"></i>
+                    <div class="name">照片</div>
+                    <div class="fontclass">.icon-pic</div>
+                </li>
+            
+                <li>
+                <i class="icon iconfont icon-trophy-fill"></i>
+                    <div class="name">排名</div>
+                    <div class="fontclass">.icon-trophy-fill</div>
+                </li>
+            
+                <li>
+                <i class="icon iconfont icon-information-circle"></i>
+                    <div class="name">说明</div>
+                    <div class="fontclass">.icon-information-circle</div>
+                </li>
+            
+                <li>
+                <i class="icon iconfont icon-gift"></i>
+                    <div class="name">7天有礼</div>
+                    <div class="fontclass">.icon-gift</div>
+                </li>
+            
+                <li>
+                <i class="icon iconfont icon-redpacket"></i>
+                    <div class="name">红包</div>
+                    <div class="fontclass">.icon-redpacket</div>
+                </li>
+            
+                <li>
+                <i class="icon iconfont icon-eye"></i>
+                    <div class="name">眼睛</div>
+                    <div class="fontclass">.icon-eye</div>
+                </li>
+            
+                <li>
+                <i class="icon iconfont icon-hand"></i>
+                    <div class="name">点赞2</div>
+                    <div class="fontclass">.icon-hand</div>
+                </li>
+            
+                <li>
+                <i class="icon iconfont icon-plus-circle"></i>
+                    <div class="name">加分</div>
+                    <div class="fontclass">.icon-plus-circle</div>
+                </li>
+            
+                <li>
+                <i class="icon iconfont icon-favor-fill"></i>
+                    <div class="name">收藏</div>
+                    <div class="fontclass">.icon-favor-fill</div>
+                </li>
+            
+                <li>
+                <i class="icon iconfont icon-refresh"></i>
+                    <div class="name">刷新</div>
+                    <div class="fontclass">.icon-refresh</div>
+                </li>
+            
+                <li>
+                <i class="icon iconfont icon-wechat-circle-fill"></i>
+                    <div class="name">微信</div>
+                    <div class="fontclass">.icon-wechat-circle-fill</div>
+                </li>
+            
+                <li>
+                <i class="icon iconfont icon-qzone-circle-fill"></i>
+                    <div class="name">QQ空间</div>
+                    <div class="fontclass">.icon-qzone-circle-fill</div>
+                </li>
+            
+                <li>
+                <i class="icon iconfont icon-moments-circle-fill"></i>
+                    <div class="name">朋友圈</div>
+                    <div class="fontclass">.icon-moments-circle-fill</div>
+                </li>
+            
+                <li>
+                <i class="icon iconfont icon-more-circle-fill"></i>
+                    <div class="name">更多</div>
+                    <div class="fontclass">.icon-more-circle-fill</div>
+                </li>
+            
+                <li>
+                <i class="icon iconfont icon-weibo-circle-fill"></i>
+                    <div class="name">微博</div>
+                    <div class="fontclass">.icon-weibo-circle-fill</div>
+                </li>
+            
+                <li>
+                <i class="icon iconfont icon-qq-circle-fill"></i>
+                    <div class="name">QQ</div>
+                    <div class="fontclass">.icon-qq-circle-fill</div>
+                </li>
+            
+                <li>
+                <i class="icon iconfont icon-vip-fill"></i>
+                    <div class="name">会员中心</div>
+                    <div class="fontclass">.icon-vip-fill</div>
+                </li>
+            
+                <li>
+                <i class="icon iconfont icon-star-fill"></i>
+                    <div class="name">初始会员</div>
+                    <div class="fontclass">.icon-star-fill</div>
+                </li>
+            
+                <li>
+                <i class="icon iconfont icon-question-square-fill"></i>
+                    <div class="name">帮助反馈中心</div>
+                    <div class="fontclass">.icon-question-square-fill</div>
+                </li>
+            
+                <li>
+                <i class="icon iconfont icon-address-fill"></i>
+                    <div class="name">地址管理</div>
+                    <div class="fontclass">.icon-address-fill</div>
+                </li>
+            
+                <li>
+                <i class="icon iconfont icon-sign-square-fill"></i>
+                    <div class="name">每日签到</div>
+                    <div class="fontclass">.icon-sign-square-fill</div>
+                </li>
+            
+                <li>
+                <i class="icon iconfont icon-order-square-fill"></i>
+                    <div class="name">我的订单</div>
+                    <div class="fontclass">.icon-order-square-fill</div>
+                </li>
+            
+                <li>
+                <i class="icon iconfont icon-notice-fill"></i>
+                    <div class="name">推广邀请</div>
+                    <div class="fontclass">.icon-notice-fill</div>
+                </li>
+            
+                <li>
+                <i class="icon iconfont icon-event-square-fill"></i>
+                    <div class="name">活动中心</div>
+                    <div class="fontclass">.icon-event-square-fill</div>
+                </li>
+            
+                <li>
+                <i class="icon iconfont icon-gift-square-fill"></i>
+                    <div class="name">我的礼单</div>
+                    <div class="fontclass">.icon-gift-square-fill</div>
+                </li>
+            
+                <li>
+                <i class="icon iconfont icon-cash-square-fill"></i>
+                    <div class="name">我的钱包</div>
+                    <div class="fontclass">.icon-cash-square-fill</div>
+                </li>
+            
+                <li>
+                <i class="icon iconfont icon-friend-square-fill"></i>
+                    <div class="name">我的好友</div>
+                    <div class="fontclass">.icon-friend-square-fill</div>
+                </li>
+            
+                <li>
+                <i class="icon iconfont icon-team-square-fill"></i>
+                    <div class="name">我的约钓</div>
+                    <div class="fontclass">.icon-team-square-fill</div>
+                </li>
+            
+                <li>
+                <i class="icon iconfont icon-server-circle-fill"></i>
+                    <div class="name">我的售后</div>
+                    <div class="fontclass">.icon-server-circle-fill</div>
+                </li>
+            
+                <li>
+                <i class="icon iconfont icon-publish-square-fill"></i>
+                    <div class="name">我的发布</div>
+                    <div class="fontclass">.icon-publish-square-fill</div>
+                </li>
+            
+                <li>
+                <i class="icon iconfont icon-information-circle-fill"></i>
+                    <div class="name">关于我们</div>
+                    <div class="fontclass">.icon-information-circle-fill</div>
+                </li>
+            
+                <li>
+                <i class="icon iconfont icon-ka"></i>
+                    <div class="name">咖</div>
+                    <div class="fontclass">.icon-ka</div>
+                </li>
+            
+        </ul>
+
+        <h2 id="font-class-">font-class引用</h2>
+        <hr>
+
+        <p>font-class是unicode使用方式的一种变种，主要是解决unicode书写不直观，语意不明确的问题。</p>
+        <p>与unicode使用方式相比，具有如下特点：</p>
+        <ul>
+        <li>兼容性良好，支持ie8+，及所有现代浏览器。</li>
+        <li>相比于unicode语意明确，书写更直观。可以很容易分辨这个icon是什么。</li>
+        <li>因为使用class来定义图标，所以当要替换图标时，只需要修改class里面的unicode引用。</li>
+        <li>不过因为本质上还是使用的字体，所以多色图标还是不支持的。</li>
+        </ul>
+        <p>使用步骤如下：</p>
+        <h3 id="-fontclass-">第一步：引入项目下面生成的fontclass代码：</h3>
+
+
+        <pre><code class="lang-js hljs javascript"><span class="hljs-comment">&lt;link rel="stylesheet" type="text/css" href="./iconfont.css"&gt;</span></code></pre>
+        <h3 id="-">第二步：挑选相应图标并获取类名，应用于页面：</h3>
+        <pre><code class="lang-css hljs">&lt;<span class="hljs-selector-tag">i</span> <span class="hljs-selector-tag">class</span>="<span class="hljs-selector-tag">iconfont</span> <span class="hljs-selector-tag">icon-xxx</span>"&gt;&lt;/<span class="hljs-selector-tag">i</span>&gt;</code></pre>
+        <blockquote>
+        <p>"iconfont"是你项目下的font-family。可以通过编辑项目查看，默认是"iconfont"。</p>
+        </blockquote>
+    </div>
+</body>
+</html>
